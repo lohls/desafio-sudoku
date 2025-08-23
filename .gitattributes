@@ -1,0 +1,23 @@
+* text=auto eol=lf
+
+# Arquivos de código (opcionalmente explícito)
+*.java          text eol=lf
+*.xml           text eol=lf
+*.json          text eol=lf
+*.yml           text eol=lf
+*.yaml          text eol=lf
+*.md            text eol=lf
+*.properties    text eol=lf
+*.gitignore     text eol=lf
+*.gitattributes text eol=lf
+*.sh            text eol=lf
+
+# Arquivos binários
+*.png  -text
+*.jpg  -text
+*.jpeg -text
+*.gif  -text
+*.ico  -text
+*.pdf  -text
+*.jar  -text
+*.zip  -text

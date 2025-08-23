@@ -1,0 +1,25 @@
+# Build
+/out/
+/target/
+/build/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+/bin/
+
+# VS Code
+.vscode/
+
+# Temporários
+*.class
+*.log
+*.tmp
+*~
+.DS_Store
+Thumbs.db
