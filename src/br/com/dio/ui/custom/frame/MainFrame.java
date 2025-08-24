@@ -1,7 +1,8 @@
 package br.com.dio.ui.custom.frame;
 
-import javax.swing.*;
-import java.awt.*;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import java.awt.Dimension;
 
 public class MainFrame extends JFrame {
 
@@ -14,6 +15,6 @@ public class MainFrame extends JFrame {
         this.setLocationRelativeTo(null);
         this.setResizable(false);
         this.add(mainPanel);
-
     }
+
 }
